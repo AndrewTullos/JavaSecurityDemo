@@ -1,4 +1,4 @@
-package learn.security.server.user;
+package learn.security.user;
 
 public enum Role {
     USER, ADMIN

@@ -1,4 +1,4 @@
-package learn.security.server.user;
+package learn.security.user;
 
 import java.util.Optional;
 import org.springframework.data.jpa.repository.JpaRepository;
